@@ -177,3 +177,11 @@ div.editor_atto_content:hover .atto_control {
     border-radius: 2px;
     display: block;
 }
+
+.editor_atto_rtl {
+    text-align: right;
+}
+
+.editor_atto_ltr {
+    text-align: left;
+}
