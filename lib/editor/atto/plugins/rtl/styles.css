@@ -1,0 +1,9 @@
+.editor_atto_rtl {
+    text-align: right;
+    direction: rtl;
+}
+
+.editor_atto_ltr {
+    text-align: left;
+    direction: ltr;
+}
