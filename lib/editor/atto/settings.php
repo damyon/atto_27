@@ -36,6 +36,7 @@ if ($ADMIN->fulltree) {
                'links = link, unlink' . "\n" .
                'files = image, media, managefiles' . "\n" .
                'style2 = underline, strike, subscript, superscript' . "\n" .
+               'align = align' . "\n" .
                'indent = indent, outdent' . "\n" .
                'insert = charmap, table, clear' . "\n" .
                'accessibility = accessibilitychecker, accessibilityhelper' . "\n" .
